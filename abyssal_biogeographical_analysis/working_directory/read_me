@@ -1,0 +1,18 @@
+
+R scripts and data for the biogeographical analysis of my thesis. Should produce similar results as in that document. 
+
+Notes: 
+
+(1)
+Upon cleaning and testing code, an error in the centroid calculation was discovered, due to an internal r function error. That is fixed here, this primailry affected the location of the centroid for province 7.
+
+(2) 
+Does not include secondary topographic analysis in Chapter 2. (Done in Mathematica 10 and GMT Tools) 
+
+(3) 
+I hope to publish this work with some additional analysis in the near future, but since this is all public data I wanted to make it available in the spirit of a pre print (e.g., https://arxiv.org/). Please use, cite, collaborate, accordingly.
+
+
+Genco, B.M. (2017). Biogeographical analysis of Abyssal bottom habitats: Using an abiotic province scheme and metazoan occurrence databases (masters thesis). 
+
+Brandon M Genco 2018-05-09

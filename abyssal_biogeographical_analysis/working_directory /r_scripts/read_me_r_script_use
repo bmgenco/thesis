@@ -1,0 +1,39 @@
+ Please read before implementation of scripts
+ R scripts are meant to be run in sequential order from terminal set to scripts directory. Figures script last. Change each script header to run as required and as standalone script not within scripts directory.
+
+	
+
+	To make scripts easier to navigate (search the script for special character and text)  the following general notations in r are used:
+
+
+"#### section ####"
+
+"#### subsection ----"
+
+Notation:
+
+(1)
+"#!" 
+Local directory. Please change for your working environmnet accordingly.
+
+(2)
+"# *improve code*"  
+
+location for code improvementt. Currnet implemention works, but should be improved. 
+Messy syntax or utilization, is in poor taste, hard coding, etc.
+
+(3)
+"# @ future @" 
+object will be used in next script in numerical series, or in future scripts
+
+(4)
+"# % Previous %" 
+object created in a previous script, will be saved in output folder 
+
+
+(5)
+"#^ alter ^" 
+Change script here for seconadary analysis. See script 4 & 5.
+
+
+2018-05-09 B.G.
